@@ -12,9 +12,9 @@
 ![alt text](https://i.imgur.com/RFpPDPh.png)
 
 # Specifications
--Created in Swift 5 using Xcode
--Built the layout, completed game design and implementation using SpriteKit
--Simple interface design implementation using a custom UIView
+- Created in Swift 5 using Xcode
+- Built the layout, completed game design and implementation using SpriteKit
+- Simple interface design implementation using a custom UIView
 
 ### Usage
 Currently not out on the app store
